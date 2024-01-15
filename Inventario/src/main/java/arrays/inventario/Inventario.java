@@ -6,7 +6,8 @@ package arrays.inventario;
 
 /**
  *
- * @author Ismael_Ast
+ * @author Ismael Astillero
+ * @version 1.0
  */
 public class Inventario {
 
